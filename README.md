@@ -1,4 +1,7 @@
 # Ironside security's Auditing Portfolio
+
+🛡️ Public portfolio : [sherlock](https://audits.sherlock.xyz/watson/Ironsidesec).
+
 🛡️ For private audits, dm on twitter : [@Ironsidesec](https://x.com/Ironsidesec).
 
 
