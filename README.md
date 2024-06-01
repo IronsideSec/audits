@@ -2,9 +2,9 @@
 
 🛡️ Ranked 96 on sherlock leaderboard.
 
-🛡️ public contest portfolio [sherlock](audits.sherlock.xyz/watson/Ironsidesec).
+🛡️ public contest portfolio [sherlock](https://audits.sherlock.xyz/watson/Ironsidesec).
 
-🛡️ For private audits, dm on twitter : [@Ironsidesec](x.com/Ironsidesec).
+🛡️ For private audits, dm on twitter : [@Ironsidesec](https://x.com/Ironsidesec).
 
 
 ## Audit Contests
@@ -16,8 +16,8 @@
 
 ## Socials
 
-Twitter : [@Ironsidesec](x.com/Ironsidesec)
+Twitter : [@Ironsidesec](https://x.com/Ironsidesec)
 
-Sherlock : [Ironsidesec](audits.sherlock.xyz/watson/Ironsidesec)
+Sherlock : [Ironsidesec](https://audits.sherlock.xyz/watson/Ironsidesec)
 
 Discord : `ironsidesec`
