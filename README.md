@@ -17,5 +17,7 @@ For private audits dm on twitter : [@Ironsidesec](x.com/Ironsidesec).
 ## Socials
 
 Twitter : [@Ironsidesec](x.com/Ironsidesec)
+
 Sherlock : [Ironsidesec](audits.sherlock.xyz/watson/Ironsidesec)
+
 Discord : `ironsidesec`
