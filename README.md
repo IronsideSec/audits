@@ -1,10 +1,10 @@
 # Ironside security's Auditing Portfolio
 
-Ironside sec is ranked 96 on sherlock leaderboard.
+🛡️ Ranked 96 on sherlock leaderboard.
 
-public contest portfolio [sherlock](audits.sherlock.xyz/watson/Ironsidesec).
+🛡️ public contest portfolio [sherlock](audits.sherlock.xyz/watson/Ironsidesec).
 
-For private audits dm on twitter : [@Ironsidesec](x.com/Ironsidesec).
+🛡️ For private audits dm on twitter : [@Ironsidesec](x.com/Ironsidesec).
 
 
 ## Audit Contests
