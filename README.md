@@ -6,10 +6,10 @@
 
 
 ## Audit Contests
-|Month|Contest|Description|Findings|Rank|Report|Winnings $|
+|Month|Contest|Description|Rank|Report|Winnings $|
 |-------|-------|-----------|--------|:--:|:----:|:----:|
-|April 2024|[Zivoe](https://audits.sherlock.xyz/contests/280)|Lending-staking|[5 H, 4 M](https://github.com/search?q=repo%3Asherlock-audit%2F2024-03-zivoe-judging+ironsidesec+label%3AReward&type=issues)| [#5](https://audits.sherlock.xyz/contests/280/leaderboard) |[📄](https://github.com/search?q=repo%3Asherlock-audit%2F2024-03-zivoe-judging+ironsidesec+label%3AReward&type=issues)| $1,910 |
-|March 2024|[Woo-fi](https://audits.sherlock.xyz/contests/277)|AMM|[1 M](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/162)| [#7](https://audits.sherlock.xyz/contests/277/leaderboard)|[📄](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/162)| $720 |
+|April 2024|[Zivoe](https://audits.sherlock.xyz/contests/280)|Lending-staking| [#5](https://audits.sherlock.xyz/contests/280/leaderboard) |[📄](https://github.com/search?q=repo%3Asherlock-audit%2F2024-03-zivoe-judging+ironsidesec+label%3AReward&type=issues)| $1,910 |
+|March 2024|[Woo-fi](https://audits.sherlock.xyz/contests/277)|AMM|[📄](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/162)| $720 |
 
 
 ## Socials
