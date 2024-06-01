@@ -1,7 +1,4 @@
 # Ironside security's Auditing Portfolio
-
-🛡️ Ranked 96 on [sherlock](https://audits.sherlock.xyz/watson/Ironsidesec).
-
 🛡️ For private audits, dm on twitter : [@Ironsidesec](https://x.com/Ironsidesec).
 
 
